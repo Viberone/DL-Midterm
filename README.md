@@ -281,7 +281,7 @@ jupyter nbconvert --to notebook --execute --inplace 04_analysis.ipynb
 python -c "import torch; print(torch.cuda.is_available())"
 
 # If False, reinstall PyTorch with CUDA support
-pip install torch --index-url https://download.pytorch.org/whl/cu118
+pip install torch --index-url https://download.pytorch.org/whl/cu128
 ```
 
 ### Out of Memory (OOM)
@@ -303,9 +303,9 @@ pip install torch --index-url https://download.pytorch.org/whl/cu118
 
 ## Contributors
 
-- **Team members**: [Enter names if applicable]
+- **Team members**: Viberone
 - **Course**: Deep Learning (Weeks 7-9, Midterm Project)
-- **Submission Date**: [Enter date]
+- **Submission Date**: 20th March 2026
 
 ## License
 
