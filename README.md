@@ -303,7 +303,7 @@ pip install torch --index-url https://download.pytorch.org/whl/cu128
 
 ## Contributors
 
-- **Team members**: Viberone
+- **Team members**: Nguyen Hoang Minh, Nguyen Minh Duc
 - **Course**: Deep Learning (Weeks 7-9, Midterm Project)
 - **Submission Date**: 20th March 2026
 
